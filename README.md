@@ -1,2 +1,2 @@
 # pepperidgeFarms
-Just a collection of helpful goodie because Pepperidge Farm cares
+Just a collection of helpful goodies because Pepperidge Farm cares
